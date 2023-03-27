@@ -1,9 +1,9 @@
 ### Hi there, I'm Jan Dzyr - Sound Designer for life and Audio Programmer after hours 👋
 
-- 🔭 I’m currently working on sound for the Midnight Harvest game that originated on gamejam
-- 🌱 I’m currently learning... to try not to make multiple ideas come real at once 👀
-- 👯 I’m looking to collaborate on imaginary worlds that would make use of immersive sound
-- 💬 Ask me about any problem involving sound, I'm always open to help
-- 📫 How to reach me: @JanDzyr on Twitter
-- ⚡ Fun fact: silence is only a pause in the melody of life
 
+- 🔭 I’m currently working on sound for the _Midnight Harvest_
+- 👯 I’m looking to collaborate on imaginary worlds that would make use of immersive sound
+- 💬 I'm always open to help so feel free to ask me about any problem involving sound design, mix or programming
+- 📫 How to reach me: @JanDzyr on Twitter
+
+- ⚡ Silence is not just a lack of sound, it's the moment when we can finally hear what surrounds us
