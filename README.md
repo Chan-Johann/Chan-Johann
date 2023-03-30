@@ -1,4 +1,4 @@
-### Hi there, I'm Jan Dzyr - Sound Designer for life and Audio Programmer after hours 👋
+### Hi there, I'm Jan Dzyr - Sound Designer with technical passion for implementation 👋
 
 
 - 🔭 I’m currently working on sound for the _Midnight Harvest_
